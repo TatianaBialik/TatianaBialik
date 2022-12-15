@@ -1,7 +1,7 @@
 <h1 align=center>Hi, I'm Tatiana 👋</h1>
 <p align=center>Highly-motivated and fast-learning Web-developer looking for new challenges. I'm currently learning ReactJS and working on my own projects</p>  
 
-<br>
+<br/>
 ## ✨Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -11,7 +11,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
-<br>
+<br/>
 
 ## ✨Contact me
 <div align='center'>
@@ -25,7 +25,7 @@
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
   </a>
 </div>
-<br>
+<br/>
 ___  
 <div align='center'>
                   

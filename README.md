@@ -25,8 +25,13 @@
 </div>
 
 ___  
-<div align=center'>  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TatianaBialik&theme=black-ice)](https://git.io/streak-stats)</div>
+<div align=center'>
+                  
+                 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=TatianaBialik&theme=black-ice)](https://git.io/streak-stats)
+                  
+                  
+                  </div>
 
 
 

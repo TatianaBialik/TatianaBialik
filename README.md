@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align=center>Hi, I'm Tatiana 👋</h1>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!--
 **TatianaBialik/TatianaBialik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

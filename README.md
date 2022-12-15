@@ -22,9 +22,11 @@
   <a href='bialik.tat@gmail.com'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
   </a>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TatianaBialik&theme=black-ice)](https://git.io/streak-stats)
 </div>
+
+___  
+<div align=center'>  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=TatianaBialik&theme=black-ice)](https://git.io/streak-stats)</div>
 
 
 

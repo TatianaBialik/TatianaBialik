@@ -12,9 +12,17 @@
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 
 ## Contact me
-<a href='https://www.facebook.com/tiana.tana/'>
-  <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white'>
-</a>
+<div align='center'>
+  <a href='https://www.linkedin.com/in/tatiana-bialik/'>
+    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
+  </a>
+  <a href='https://www.facebook.com/tiana.tana/'>
+    <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white'>
+  </a>
+  <a href='bialik.tat@gmail.com'>
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+  </a>
+</div>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TatianaBialik)](https://git.io/streak-stats)

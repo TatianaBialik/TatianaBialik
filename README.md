@@ -1,7 +1,7 @@
 <h1 align=center>Hi, I'm Tatiana 👋</h1>
 <p align=center>Highly-motivated and fast-learning Web-developer looking for new challenges. I'm currently learning ReactJS and working on my own projects</p>
 
-## Technologies
+## ✨Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,7 +11,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 
-## Contact me
+## ✨Contact me
 <div align='center'>
   <a href='https://www.linkedin.com/in/tatiana-bialik/'>
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>
@@ -19,7 +19,7 @@
   <a href='https://www.facebook.com/tiana.tana/'>
     <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white'>
   </a>
-  <a href='bialik.tat@gmail.com'>
+  <a href='mailto:bialik.tat@gmail.com'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
   </a>
 </div>

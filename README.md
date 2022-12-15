@@ -12,9 +12,12 @@
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 
 ## Contact me
-![https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white](https://www.facebook.com/tiana.tana/)
+<a href='https://www.facebook.com/tiana.tana/'>
+  <img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white'>
+</a>
 
-<div align=center> [![GitHub Streak](https://streak-stats.demolab.com/?user=TatianaBialik)](https://git.io/streak-stats) </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TatianaBialik)](https://git.io/streak-stats)
 
 <!--
 **TatianaBialik/TatianaBialik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

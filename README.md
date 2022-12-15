@@ -1,8 +1,7 @@
-<h2 align=center>Hi, I'm Tatiana 👋</h2>
-<h2 align=center></h2>
-Highly-motivated and fast-learning Web-developer looking for new challenges. I'm currently learning ReactJS and working on my own projects
+<h1 align=center>Hi, I'm Tatiana 👋</h1>
+<p align=center>Highly-motivated and fast-learning Web-developer looking for new challenges. I'm currently learning ReactJS and working on my own projects</p>
 
-### Technologies
+## Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,7 +11,10 @@ Highly-motivated and fast-learning Web-developer looking for new challenges. I'm
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TatianaBialik)](https://git.io/streak-stats)
+## Contact me
+![https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white](https://www.facebook.com/tiana.tana/)
+
+<div align=center>[![GitHub Streak](https://streak-stats.demolab.com/?user=TatianaBialik)](https://git.io/streak-stats)</div>
 
 <!--
 **TatianaBialik/TatianaBialik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

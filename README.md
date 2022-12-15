@@ -21,18 +21,18 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- OOP
-- BEM methodology
-- Git
-- Figma
+✅ OOP
+✅ BEM methodology
+✅ Git
+✅ Figma
 
 <br/>
 
 ## 🎄2023 plans
 
-* Typescript
-* Vue.js
-* WordPress
+📌 Typescript
+📌 Vue.js
+📌 WordPress
 
 <br/>
 

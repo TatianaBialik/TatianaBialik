@@ -22,16 +22,16 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ✅ OOP  
-✅ BEM methodology
-✅ Git
+✅ BEM methodology  
+✅ Git  
 ✅ Figma
 
 <br/>
 
 ## 🎄2023 plans
 
-📌 Typescript
-📌 Vue.js
+📌 Typescript  
+📌 Vue.js  
 📌 WordPress
 
 <br/>

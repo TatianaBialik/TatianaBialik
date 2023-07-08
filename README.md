@@ -16,14 +16,7 @@
 
 ## 🍀Additional skills
 
-✅ Mongo DB
-✅ SQL
-✅ Less
-✅ Bootstrap
-✅ OOP  
-✅ BEM methodology  
-✅ Git  
-✅ Figma
+✅ Mongo DB ✅ SQL ✅ Less ✅ Bootstrap ✅ OOP   ✅ BEM methodology   ✅ Git   ✅ Figma
 
 <br/>
 

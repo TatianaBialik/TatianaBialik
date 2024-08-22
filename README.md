@@ -20,12 +20,6 @@
 
 <br/>
 
-## 🎄2023 plans
-
-📌 Typescript  
-📌 Vue.js  
-📌 WordPress
-
 <br/>
 
 ## 📫Contact me

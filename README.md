@@ -1,5 +1,5 @@
 <h1 align=center>Hi, I'm Tatiana 👋</h1>
-<p align=center>I am a Junior Web Developer with a unique perspective and creative mindset. I am a fast learner and love to tackle complex problems with innovative solutions. I am passionate about web development and passed the Web Development Practicum course to hone my skills. With a 1st degree in Information Security, I have a solid foundation in computer science and a strong understanding of data security. I am highly motivated and eager to apply my skills to contribute to dynamic and innovative web development projects.</p>  
+<p align=center>I am a Web Developer with a unique perspective and creative mindset. I am a fast learner and love to tackle complex problems with innovative solutions. I am passionate about web development and passed the Web Development Practicum course to hone my skills. With a 1st degree in Information Security, I have a solid foundation in computer science and a strong understanding of data security. I am highly motivated and eager to apply my skills to contribute to dynamic and innovative web development projects.</p>  
 
 <br/>
 
